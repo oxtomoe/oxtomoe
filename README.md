@@ -1,11 +1,11 @@
 <pre>
   
-                                      #include <stdio.h>
+                        #include <stdio.h>
 
-                                      int main() {
-                                          printf("building stuff;"); // that's it
-                                          return 0;
-                                      }
+                        int main() {
+                            printf("building stuff;"); // that's it
+                            return 0;
+                        }
                                       
 </pre>
 
